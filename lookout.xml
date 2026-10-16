@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+  <channel>
+    <title>Lookout</title>
+    <description>Aggiornamenti di Lookout</description>
+    <language>it</language>
+    <item>
+      <title>Lookout 1.9.0</title>
+      <pubDate>Fri, 16 Oct 2026 12:20:34 +0200</pubDate>
+      <sparkle:version>1.9.0</sparkle:version>
+      <sparkle:shortVersionString>1.9.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+      <description>&lt;p&gt;Lookout diventa un'app vera: si installa dal dmg, con Python e librerie dentro.&lt;/p&gt;&lt;p&gt;Nuova voce Lookout › Verifica aggiornamenti…, e controllo automatico una volta al giorno.&lt;/p&gt;</description>
+      <enclosure url="https://github.com/oficina-progettazione/oficina-aggiornamenti/releases/download/lookout-1.9.0/Lookout-1.9.0.dmg" sparkle:edSignature="/TL3PUtAblKEAYhF8vYo+6FJ/S5nQo9OlyAD33yX8ARBqU38fJJQX9dfjGkoAIvXv2cy2Njw/CIQTewhXxjXAA==" length="139173858" type="application/octet-stream" />
+    </item>
+  </channel>
+</rss>
