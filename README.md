@@ -5,7 +5,7 @@ Qui ci sono solo le app pronte da installare e l'elenco delle versioni che le ap
 | App | Versione | Scarica |
 |---|---|---|
 | Canvas | 0.2.4 | [Canvas-0.2.4.dmg](https://github.com/oficina-progettazione/oficina-aggiornamenti/releases/download/canvas-0.2.4/Canvas-0.2.4.dmg) |
-| Lookout | 1.9.3 | [Lookout-1.9.3.dmg](https://github.com/oficina-progettazione/oficina-aggiornamenti/releases/download/lookout-1.9.3/Lookout-1.9.3.dmg) |
+| Lookout | 1.9.4 | [Lookout-1.9.4.dmg](https://github.com/oficina-progettazione/oficina-aggiornamenti/releases/download/lookout-1.9.4/Lookout-1.9.4.dmg) |
 
 ## Installare su un altro Mac
 

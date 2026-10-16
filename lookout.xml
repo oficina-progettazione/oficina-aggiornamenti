@@ -5,6 +5,15 @@
     <description>Aggiornamenti di Lookout</description>
     <language>it</language>
     <item>
+      <title>Lookout 1.9.4</title>
+      <pubDate>Fri, 16 Oct 2026 12:46:56 +0200</pubDate>
+      <sparkle:version>1.9.4</sparkle:version>
+      <sparkle:shortVersionString>1.9.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description>&lt;p&gt;Indica correttamente che serve macOS 14 Sonoma o più recente.&lt;/p&gt;</description>
+      <enclosure url="https://github.com/oficina-progettazione/oficina-aggiornamenti/releases/download/lookout-1.9.4/Lookout-1.9.4.dmg" sparkle:edSignature="A1oVZuN9H/pTcPMq1MwOD4ypNqDjqNaXbXlHMWl3lZXORRbcSup75ZNc3B6h2yLghjL+QT1iIdhDzavgKMwrDg==" length="139180056" type="application/octet-stream" />
+    </item>
+    <item>
       <title>Lookout 1.9.3</title>
       <pubDate>Fri, 16 Oct 2026 12:41:58 +0200</pubDate>
       <sparkle:version>1.9.3</sparkle:version>
