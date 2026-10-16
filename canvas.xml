@@ -5,6 +5,15 @@
     <description>Aggiornamenti di Canvas</description>
     <language>it</language>
     <item>
+      <title>Canvas 0.2.1</title>
+      <pubDate>Fri, 16 Oct 2026 12:04:45 +0200</pubDate>
+      <sparkle:version>0.2.1</sparkle:version>
+      <sparkle:shortVersionString>0.2.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+      <description>&lt;p&gt;Versione di prova dell'aggiornamento automatico (nessuna novità nell'uso).&lt;/p&gt;</description>
+      <enclosure url="https://github.com/oficina-progettazione/oficina-aggiornamenti/releases/download/canvas-0.2.1/Canvas-0.2.1.dmg" sparkle:edSignature="R890oxV1/+5IVkiaE4kfgPCV7VEbV4K8H+baSTwbVF7CXiEZMNGHJFh2q1lwhEQizO15yjT6pX+iTPe7rXLgCg==" length="117605900" type="application/octet-stream" />
+    </item>
+    <item>
       <title>Canvas 0.2.0</title>
       <pubDate>Fri, 16 Oct 2026 12:02:52 +0200</pubDate>
       <sparkle:version>0.2.0</sparkle:version>
