@@ -4,6 +4,7 @@ Qui ci sono solo le app pronte da installare e l'elenco delle versioni che le ap
 
 | App | Versione | Scarica |
 |---|---|---|
+| Canvas | 0.2.0 | [Canvas-0.2.0.dmg](https://github.com/oficina-progettazione/oficina-aggiornamenti/releases/download/canvas-0.2.0/Canvas-0.2.0.dmg) |
 
 ## Installare su un altro Mac
 

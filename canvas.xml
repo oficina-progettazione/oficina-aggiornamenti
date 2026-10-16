@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+  <channel>
+    <title>Canvas</title>
+    <description>Aggiornamenti di Canvas</description>
+    <language>it</language>
+    <item>
+      <title>Canvas 0.2.0</title>
+      <pubDate>Fri, 16 Oct 2026 12:02:52 +0200</pubDate>
+      <sparkle:version>0.2.0</sparkle:version>
+      <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+      <description>&lt;p&gt;Canvas diventa un&amp;#x27;app vera: si installa dal dmg, con Python e librerie dentro.&lt;/p&gt;&lt;p&gt;Nuova voce Canvas › Verifica aggiornamenti…, e controllo automatico una volta al giorno.&lt;/p&gt;</description>
+      <enclosure url="https://github.com/oficina-progettazione/oficina-aggiornamenti/releases/download/canvas-0.2.0/Canvas-0.2.0.dmg" sparkle:edSignature="VfHYxoccs568h/w3nvsGAfypOEH96V4yt8MNA1K3L56efBoCBVTEcLdbBkLmUSzhbj8yXTbVHrKKeqxx/1ZZAQ==" length="117610029" type="application/octet-stream" />
+    </item>
+  </channel>
+</rss>
