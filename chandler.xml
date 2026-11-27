@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+  <channel>
+    <title>Chandler</title>
+    <description>Aggiornamenti di Chandler</description>
+    <language>it</language>
+    <item>
+      <title>Chandler 1.0.0</title>
+      <pubDate>Fri, 27 Nov 2026 19:45:28 +0100</pubDate>
+      <sparkle:version>1.0.0</sparkle:version>
+      <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <description>&lt;p&gt;Prima versione per i Mac dell'ufficio.&lt;/p&gt;&lt;p&gt;Si aggiorna da sola: controlla ogni ora e installa la versione nuova quando chiudi l'app.&lt;/p&gt;&lt;p&gt;Trova da sola la cartella SCHEDE TECNICHE condivisa su Google Drive.&lt;/p&gt;</description>
+      <enclosure url="https://github.com/oficina-progettazione/oficina-aggiornamenti/releases/download/chandler-1.0.0/Chandler-1.0.0.dmg" sparkle:edSignature="QDHsYyqS0w0BHR/DSJjj6I6f2v7WTOFKiJO/TiMKvUBgg+pZVGeYhISekd1d8jjRthwe3HC8vz98DXfH0B6PAA==" length="1707594" type="application/octet-stream" />
+    </item>
+  </channel>
+</rss>
