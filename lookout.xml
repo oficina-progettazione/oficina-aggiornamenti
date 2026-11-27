@@ -5,6 +5,15 @@
     <description>Aggiornamenti di Lookout</description>
     <language>it</language>
     <item>
+      <title>Lookout 1.9.5</title>
+      <pubDate>Fri, 27 Nov 2026 19:49:45 +0100</pubDate>
+      <sparkle:version>1.9.5</sparkle:version>
+      <sparkle:shortVersionString>1.9.5</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description>&lt;p&gt;Tutte le migliorie fatte da ottobre a oggi.&lt;/p&gt;&lt;p&gt;Gli aggiornamenti ora arrivano da soli: controllo ogni ora, installazione quando chiudi l'app.&lt;/p&gt;</description>
+      <enclosure url="https://github.com/oficina-progettazione/oficina-aggiornamenti/releases/download/lookout-1.9.5/Lookout-1.9.5.dmg" sparkle:edSignature="ah9cj1DTJjDvmHyptFmfcRs3H4YK1WkfQhk5I6AgTWebiBxACk0kiMUefRpdOJkJzEoy9aozLMHBuRW7U4RjBw==" length="139020116" type="application/octet-stream" />
+    </item>
+    <item>
       <title>Lookout 1.9.4</title>
       <pubDate>Fri, 16 Oct 2026 12:46:56 +0200</pubDate>
       <sparkle:version>1.9.4</sparkle:version>
