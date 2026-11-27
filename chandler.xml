@@ -5,6 +5,15 @@
     <description>Aggiornamenti di Chandler</description>
     <language>it</language>
     <item>
+      <title>Chandler 1.0.1</title>
+      <pubDate>Fri, 27 Nov 2026 21:30:28 +0100</pubDate>
+      <sparkle:version>1.0.1</sparkle:version>
+      <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <description>&lt;p&gt;Griglia: le anteprime larghe non si sovrappongono più alla scheda accanto&lt;/p&gt;&lt;p&gt;Griglia: foto della stessa fila allineate in alto anche con nomi su due righe&lt;/p&gt;</description>
+      <enclosure url="https://github.com/oficina-progettazione/oficina-aggiornamenti/releases/download/chandler-1.0.1/Chandler-1.0.1.dmg" sparkle:edSignature="O4RmujdqZPKwId/qJU6MMcUa+wOTPy/ivKPcXb+fx6BSXvOHBg+Iah8PyQ593hCqvu3pNtQ/h2WJhawF+Gw5Cg==" length="1707612" type="application/octet-stream" />
+    </item>
+    <item>
       <title>Chandler 1.0.0</title>
       <pubDate>Fri, 27 Nov 2026 19:45:28 +0100</pubDate>
       <sparkle:version>1.0.0</sparkle:version>
